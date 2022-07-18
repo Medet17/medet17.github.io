@@ -1,0 +1,121 @@
+body{
+	margin: 0;
+	background-color: whitesmoke;
+}
+
+.glavnoe{font-family: 'Oswald', sans-serif;
+
+	color:black;
+	font-size: 50px;
+	text-align: center;	}
+.suretter{
+	text-align: center ;
+}
+.text1{
+	margin-right: 25%;
+	font-size: 20px;
+}
+
+
+.ranhe{
+
+	display: flex;
+	padding-left: 13%;
+	padding-right: 13%;
+	padding-top: 5%;
+	background-color: antiquewhite;
+	padding-bottom: 7%;
+}
+.history{
+
+	display: flex;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 5%;
+	background-color: whitesmoke;
+	padding-bottom: 7%;
+}
+
+.text2{
+	margin-left: 13%;
+	margin-right: 13%;
+	font-size: 20px;
+	padding-bottom:  7%;
+}
+.Aktau{
+	height: 600px;
+}
+
+.sity{
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwelling_Oaziz_Aktau.jpg/1200px-Dwelling_Oaziz_Aktau.jpg');
+	background-size: cover;
+	text-align: center;
+	height: 100%;
+	padding-top: 30%;
+	background-attachment: fixed;
+  	background-position: center;
+}
+
+.sitytitle{
+	font-family: 'Oswald', sans-serif;
+	font-size: 100px;
+	margin-bottom: 30%;
+	color: white;
+}
+
+.sitytext{
+	font-size: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.town{
+	margin-top: -10%;
+	background-image: url('https://cdn.fishki.net/upload/post/2019/05/15/2979013/tn/ca28d0d4a39d6cdd69914a9611788e8b.jpg');
+	background-size: cover;
+	text-align: center;
+	height: 100%;
+	padding-top: 30%;
+	background-attachment: fixed;
+  	background-position: center;
+}
+
+.towntitle{
+	font-family: 'Oswald', sans-serif;
+	font-size: 100px;
+	margin-bottom: 30%;
+	color: white;
+}
+
+.towntext{
+	font-size: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.map{
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	background-color: white;
+	margin: -10%;
+	padding-top: 5%;
+	height: 700px;
+}
+footer{
+	text-align: center;
+	padding: 3%;	
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	color: white;
+}
+
